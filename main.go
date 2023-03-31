@@ -1,0 +1,1 @@
+package polyglot_translation_consumer
